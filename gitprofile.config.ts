@@ -38,14 +38,14 @@ const CONFIG = {
             'This is a presentation discussing the parasite T.gondii including symptoms, epidemiology, and several case studies',
           imageUrl:
             'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/toxoplasmapresentation.png',
-          link: 'https://github.com/agonzalez197/agonzalez197.github.io/blob/main/Toxoplasma%20gondii%20presentation.pdf',
+          link: 'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/Toxoplasma%20gondii%20presentation.pdf',
         },
         {
           title: 'Presentation on the impact of light intensity on photosynthetic rates and resource allocation in sunflower plants (Helianthus annuus) ',
           description:
             'This is a presentation on a experimental project showing the research of the effects of varying light intensity on the photosynthetic rates and resource allocation in sunflowers.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/sunflowerproject.png',
           link: 'https://example.com',
         },
       ],
