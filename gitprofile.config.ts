@@ -46,7 +46,7 @@ const CONFIG = {
             'This is a presentation on a experimental project showing the research of the effects of varying light intensity on the photosynthetic rates and resource allocation in sunflowers.',
           imageUrl:
             'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/sunflowerproject.png',
-          link: 'https://example.com',
+          link: 'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/The%20impact%20of%20light%20intensity%20on%20photosynthetic%20rates%20and%20resource%20allocation%20in%20sunflower%20plants%20(Helianthus%20annuus)%20%20(1).pdf',
         },
       ],
     },
