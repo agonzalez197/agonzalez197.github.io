@@ -90,11 +90,10 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'RxTechExam',
+      position: 'Student',
+      from: 'December 2023',
+      to: 'March 2024',
     },
   ],
   certifications: [
