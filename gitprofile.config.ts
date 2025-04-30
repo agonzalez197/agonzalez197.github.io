@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'This is a presentation discussing the parasite T.gondii including symptoms, epidemiology, and several case studies',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/toxoplasmapresentation.png',
+          link: 'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/toxoplasmapresentation.pdf',
         },
         {
           title: 'Project Name',
