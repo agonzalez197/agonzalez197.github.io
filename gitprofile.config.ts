@@ -114,13 +114,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Genome Sequence of Atlantibacter subterranea DSM 16208 Isolated from Uranium-contaminated Sediment',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
+      journalName: 'Microbiology Resource Announcements',
+      authors: 'Sofia Amaral, Luis Garcia, Adrianna Gonzalez, Samantha Prince, Komal Takhar, Tricia Van Laar',
       link: 'https://example.com',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'This is a manuscript in submission. We report the whole genome sequence of an antibiotic-resistant strain of Atlantibacter subterranea isolated from Uranium-contaminated sediment in Tennessee. The genome sequence of this strain was 4,717,064 bp in length, contained 34 contigs and 29 scaffolds, and with a GC content of 55.17%.',
     },
     {
       title: 'Publication Title',
