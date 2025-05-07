@@ -98,9 +98,9 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
+      name: 'Certified Pharmacy Technician',
       body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      year: 'March 2024',
       link: 'https://example.com',
     },
   ],
