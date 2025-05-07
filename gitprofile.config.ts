@@ -99,9 +99,9 @@ const CONFIG = {
   certifications: [
     {
       name: 'Certified Pharmacy Technician',
-      body: 'Lorem ipsum dolor sit amet',
+      body: 'This certification indicates that the requirements for the certification and merits have been met.',
       year: 'March 2024',
-      link: 'https://example.com',
+      link: 'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/CPhT.png',
     },
   ],
   educations: [
