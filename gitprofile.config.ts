@@ -102,6 +102,12 @@ const CONFIG = {
       body: 'This certification indicates that the requirements for the certification and merits have been met.',
       year: 'March 2024',
       link: 'https://github.com/agonzalez197/agonzalez197.github.io/raw/main/CPhT.png',
+    }, 
+    {
+      name: 'Licensed Pharmacy Technician- TCH 199202',
+      body: 'This indicates that the requirements, including licensure exam, were met.',
+      year: 'June 2024',
+      link: 'https://search.dca.ca.gov/details/7200/TCH/199202/5ffbbb739f7464832e1c1a64bf9fa949',
     },
   ],
   educations: [
